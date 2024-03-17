@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+ }
+
+ .col{
+    color: gold;
+    /* font-size: 30px; */
+
+ }
+ .row{
+    width: 95%;
+    margin: auto;
+ }
